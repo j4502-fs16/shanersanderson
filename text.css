@@ -1,9 +1,11 @@
 p{
+  color:purple;
   font-family: 'Lora', serif;
   text-align: center;
   }
 
 h1{
+  color:blue;
   font-family:'Open Sans', sans-serif;
   text-align: center;
   }
@@ -39,7 +41,7 @@ h3{
   }
 
 .caption{
-    color:black;
+    color:red;
     font-familty: 'Open Sans', sans-serif;
     font-size: 0.8em;
     font-style: italic;
